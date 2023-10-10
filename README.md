@@ -16,7 +16,7 @@
 - Обучить модель, посмотреть значения метрик качества и важность признаков   
 - Принять участие в соревновании на kaggle
 
-<a href="https://www.kaggle.com/competitions/sf-dst-restaurant-rating/overview">**Страница с моим решением на Kaggle:**</a>
+<a href="https://www.kaggle.com/competitions/sf-dst-restaurant-rating/overview">**Страница с моим решением на Kaggle**</a>
 
 ### Структура репозитория:  
 - **Ноутбук с решением. Файл - 4.Project_Restaurant_Rating.ipynb**  
